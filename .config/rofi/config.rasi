@@ -1,0 +1,10 @@
+//@theme "/home/bde/.local/share/rofi/themes/minimal.rasi"
+//@theme "/home/bde/.local/share/rofi/themes/material.rasi"
+@theme "/home/bde/.local/share/rofi/themes/gruvbox.rasi"
+configuration {
+	modi: "drun,run";
+	//location: 2;
+	//yoffset: 30;
+	hover-select: true;
+}
+
